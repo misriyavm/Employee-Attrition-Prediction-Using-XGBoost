@@ -99,5 +99,5 @@ This study successfully applied Exploratory Data Analysis and machine learning t
 ## Author
 
 **Nafeesathul Misriya V M**
-MA Economics, Central University of Punjab
+MA Economics, Central University of Punjab,
 Data Analytics Intern – Softroniics
